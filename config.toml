@@ -1,5 +1,5 @@
 author = "Anders Amlie"
-baseURL = 'https://andersamlie.github.io/hugo-mock-landing-page/'
+baseURL = 'https://andersamlie.github.io/hugo-mock-landing-page-autodeployed/'
 copyright = "Anders Amlie"
 title = "DineFind"
 
